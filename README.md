@@ -1,4 +1,14 @@
 <h1 align="center">
+  <a href="https://lexical.dev">Lexical for project TH</a>
+</h1>
+
+# 원칙
+- 최신화
+
+
+--- 
+
+<h1 align="center">
   <a href="https://lexical.dev">Lexical</a>
 </h1>
 

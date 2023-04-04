@@ -29,3 +29,5 @@ npm-debug.log*
 !.vscode/*.code-snippets
 
 .idea
+
+temp
